@@ -13,7 +13,7 @@ Each question will have 2 options- Yes, No.
 You click on your answer and a messagebox will appear conveying the correctness of your chosen answer.
 
 'Show Explanations' button opens a new window displaying explanations for selected questions.
-<img src="Explanation_Window.png">
+<img src="Explanations_Window.png">
 
 'Quit' button closes the quiz window.
 
