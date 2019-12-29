@@ -18,5 +18,5 @@ You click on your answer and a messagebox will appear conveying the correctness 
 'Quit' button closes the quiz window.
 
 *As it is designed for the purpose of learning, all the options in all the menus will lead to the same 'India Quiz->Easy' quiz.
-You can change the questions by creating new methods*
+You can change the questions by creating new methods.*
 
