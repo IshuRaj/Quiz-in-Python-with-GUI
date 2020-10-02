@@ -1,5 +1,8 @@
 # Quiz-in-Python-with-GUI
 
+This project focuses on creating a quiz in Python language with appropriate GUI that helps the user.
+Details are as follows:
+
 The welcome screen consists of a menu bar with 6 menu items each corresponding to a particular field of knowledge.
 
 Each menu has 3 options- Easy, Medium, Difficult.
